@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @yourcrocdev
-- 👀 I’m interested in crocodiles, creating games and software and trucks.
-- 🌱 I’m currently learning Java, C#, and Lua.
-- I create assets for CSR Games.
-- I create other games as a solo developer.
+hey! i'm crocoko.
+
+i'm working on improving this page soon :)
